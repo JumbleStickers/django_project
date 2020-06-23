@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\blog",
+    "\\blog\\static",
+    "\\blog\\static\\blog",
+    "\\django_project\\__pycache__",
+    "\\media",
+    "\\users",
+    "\\users\\templates",
+    "\\users\\templates\\users"
+  ],
+  "SelectedNode": "\\users\\templates\\users\\password_reset.html",
+  "PreviewInSolutionExplorer": false
+}
